@@ -4,7 +4,7 @@ Here is a README file based on the provided lab details:
 
 ---
 
-# Pattern Recognition Lab - Dimensionality Reduction and Classification
+# Pattern Recognition Lab - Dimensionality Reduction, Classification, Convolutional Neural Networks(CNNs) & General Adversarial Networks(GANs)
 
 ## Overview
 
