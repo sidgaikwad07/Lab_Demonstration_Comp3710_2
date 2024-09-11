@@ -133,32 +133,5 @@ Create a fast CIFAR-10 dataset classification network, aiming for more than 93% 
 ### Rangpur HPC Cluster
 For this lab, you will use UQ’s **Rangpur HPC cluster** to run models and evaluate results. Detailed information can be found in the lab resources provided by your instructor.
 
-### DAWNBench Resources
-Check the **Crash Course in Deep Learning** and the available DAWNBench code resources for help in solving the challenge.
-
----
-
-## Mark Breakdown
-
-1. **Part 1 - Eigenfaces**:
-2. **Part 2 - CNN Classifier**: 
-   - CNN Classifier:
-   - Advanced Git Course: 
-   - DAWNBench Challenge: 
-3. **Part 3 - Recognition Problem**: 
-
-### GitHub Requirements:
-1. Code must be hosted in your GitHub project with relevant commit logs.
-2. Code should be well-commented and structured.
-3. Commit messages must be meaningful.
-
----
-
-## Submission
-
-- Push all your code to a GitHub repository.
-- Ensure proper commit messages and well-documented code.
-- Demonstrate your work to the instructor before the due date to be awarded marks.
-
 ---
 
