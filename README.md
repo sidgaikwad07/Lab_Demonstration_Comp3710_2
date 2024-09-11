@@ -135,3 +135,11 @@ For this lab, you will use UQ’s **Rangpur HPC cluster** to run models and eval
 
 ---
 
+## References
+
+### 1) https://www.datacamp.com/tutorial/principal-component-analysis-in-python
+### 2) https://towardsai.net/p/l/impact-of-optimizers-in-image-classifiers
+### 3) https://pytorch.org/tutorials/beginner/basics/data_tutorial.html
+### 4) https://www.geeksforgeeks.org/generative-adversarial-network-gan/
+### 5) 
+
